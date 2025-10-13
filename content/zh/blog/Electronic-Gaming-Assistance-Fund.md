@@ -1,7 +1,7 @@
 ---
 title: "电子游戏援助基金"
 description: "老虎机亏损援助"
-img: "/images/blog/covers/phishing-text-message-scams-2023.jpg"
+img: "/images/blog/covers/phishing-text-message-scams-2023.png"
 feature: true
 date: "2025-09-10"
 tag: 电子游戏

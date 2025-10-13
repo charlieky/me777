@@ -15,7 +15,7 @@ const { t } = useI18n()
         <FooterItem
           :title="t('footer.community')"
           title-class="text-gray-300"
-          :links="[{ text: t('footer.telegram'), href: 'https://t.me/VIPAgent_BAJI72', external: true }]"
+          :links="[{ text: t('footer.telegram'), href: 'https://t.me/+H2V-8z1VhxY0ODQ1', external: true }]"
           link-class="text-gray-400 hover:text-white transition-colors"
         />
 

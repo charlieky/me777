@@ -96,8 +96,8 @@ useLangMeta('analysis.meta', seoImage)
               <span class="text-emerald-600">{{ $t('analysis.keyTrend.desc14') }}</span>
             </div>
             <div class="commission-grid">
-              <span> {{ $t('analysis.keyTrend.desc14') }}</span>
-              <span class="text-emerald-600">{{ $t('analysis.keyTrend.desc15') }}</span>
+              <span> {{ $t('analysis.keyTrend.desc15') }}</span>
+              <span class="text-emerald-600">{{ $t('analysis.keyTrend.desc16') }}</span>
             </div>
           </div>
 

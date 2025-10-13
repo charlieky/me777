@@ -25,7 +25,7 @@ const featureSetTwo = computed(() => features.value?.slice(3, 6) || [])
         <h2 id="latest-posts" class="m0 text-4xl font-bold tracking-wide md:text-5xl">
           {{ $t('home.latest') }}
         </h2>
-        <p class="m0 pt3 text-sm text-dark-400 dark:text-gray-200">
+        <p class="m0 pt3 text-xl text-dark-400 dark:text-gray-200">
           {{ $t('home.features.description') }}
         </p>
       </div>

@@ -1,7 +1,7 @@
 ---
 title: "Electronic Gaming Assistance Fund"
 description: "LOSE ON SLOT BONUS"
-img: "/images/blog/covers/phishing-text-message-scams-2023.jpg"
+img: "/images/blog/covers/phishing-text-message-scams-2023.png"
 feature: true
 date: "2025-09-10"
 tag: Electronic Gaming

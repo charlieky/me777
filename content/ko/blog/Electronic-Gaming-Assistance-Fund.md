@@ -1,7 +1,7 @@
 ---
 title: "Pondo ng Tulong sa Electronic Gaming"
 description: "BONUS SA PAGKATALO SA SLOT"
-img: "/images/blog/covers/phishing-text-message-scams-2023.jpg"
+img: "/images/blog/covers/phishing-text-message-scams-2023.png"
 feature: true
 date: "2025-09-10"
 tag: Electronic Gaming

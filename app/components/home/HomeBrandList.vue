@@ -3,23 +3,23 @@ const { locale } = useI18n()
 
 const urls = [
   {
-    url: 'https://www.ncsc.govt.nz/',
+    url: 'https://www-me777.com/',
     name: 'NCSC',
   },
   {
-    url: 'https://netsafe.org.nz/',
+    url: 'https://www-me777.com/',
     name: 'NetSafe',
   },
   {
-    url: 'https://bitwarden.com/',
+    url: 'https://www-me777.com/',
     name: 'Bitwarden',
   },
   {
-    url: 'https://www.ownyouronline.govt.nz/',
+    url: 'https://www-me777.com/',
     name: 'OwnYourOnline',
   },
   {
-    url: (locale.value === 'ko') ? 'https://www.samsung.com/sec/' : 'https://www.samsung.com/nz/',
+    url: (locale.value === 'ko') ? 'https://www-me777.com/' : 'https://www.www-me777.com/',
     name: 'Samsung',
   },
 ]
