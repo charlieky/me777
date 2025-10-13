@@ -1,0 +1,312 @@
+{
+  "Alert": {
+    "feature": "Preview ng Feature",
+    "maintenance": "Ang pahinang ito ay kasalukuyang nasa konstruksyon at maaaring magmukhang medyo iba kapag natapos na.",
+    "view": "Tingnan ang pinakabagong bersyon"
+  },
+  "Blog": {
+    "description": "Ang mga madalas na manlalaro ay makakakuha ng mas magandang bonus sa pamamagitan ng VIP/rank system.",
+    "meta": {
+      "description": "Ang Xanzhu ay nagbibigay ng kapaki-pakinabang na mga artikulo, gabay at tips tungkol sa teknolohiya. Nakatuon sa privacy, seguridad at iba pa.",
+      "title": "Pinakabagong Mga Post tungkol sa Seguridad at Balita sa Teknolohiya"
+    },
+    "source": "Pinagmulan",
+    "title": "Tuklasin ang Aming Pinakabagong Promotion Bonus",
+    "toc": "Talaan ng mga nilalaman"
+  },
+  "Home": {
+    "Seo": {
+      "description": "Manatiling ligtas online kasama ang Xanzhu. Makakuha ng pinakabagong tech trends, security tips, at privacy guides upang makanavigate sa digital world.",
+      "title": "Balita, Gabay sa Teknolohiya, Privacy at Seguridad"
+    }
+  },
+  "Links": {
+    "analysis": "Ahente",
+    "blog": "Promosyon",
+    "resources": "Mga Miyembro"
+  },
+  "PagesCard": {},
+  "SocialsCard": {
+    "h1": "Sundan ang aming Socials"
+  },
+  "analysis": {
+    "graph": {
+      "advancedPersistentThreat": "Advanced Persistent Threat",
+      "aiIntegration": "AI Integration",
+      "initialThreat": "Paunang Banta",
+      "label": "Cyber Threat Sophistication",
+      "peakSophistication": "Pinakamataas na Sophistication",
+      "targetedAttacks": "Mga Target na Atake",
+      "title": "AI-Powered Cyber Threat Progression",
+      "xAxis": "Threat Evolution Stage",
+      "yAxis": "Threat Sophistication (%)"
+    },
+    "hero": {
+      "subhead": "Ang mga ahente ay maaaring lumahok sa quad mode combination",
+      "title": "Me777 Quad Agent Mode",
+      "title1": "Gawain ng Ahente",
+      "title2": "ME777 Mga Benepisyo ng Ahente",
+      "title3": "Natatanging Mga Tool ng Ahente",
+      "title4": "Referral Link: ",
+      "title5": "www-me777.com/ref/yourcode",
+      "title6": "Invitation Code: ",
+      "title7": "AGENT-777",
+      "title8": "Batayan ng Komisyon: ",
+      "title9": "Lahat ng Aktibidad ng Miyembro",
+      "title10": "Dalas ng Settlement: ",
+      "title11": "Araw-araw",
+      "title12": "Availability ng Withdrawal: ",
+      "title13": "Instant na Proseso",
+      "title14": "Limitasyon ng Kita: ",
+      "title15": "Walang Hangganan",
+      "commissionTitle": "Sistema ng komisyon",
+      "promotionTitle": "Mga Platform ng Promosyon"
+    },
+    "hero1": {
+      "title": "Pagsusuri ng Istruktura ng Komisyon",
+      "subtitle": "Komprehensibong breakdown ng mga pagkakataon kumita at bonus structures",
+      "title1": "Araw-arawang Istruktura ng Referral Bonus",
+      "deposit": "Halaga ng Deposito",
+      "turnover": "Turnover",
+      "validBet": "Balidong Taya",
+      "game": "Laro",
+      "bonus": "Bonus",
+      "fishSlot": "Fish & Slot"
+    },
+    "agentLevels": {
+      "title": "Mga Benepisyo ng Antas ng Ahente",
+      "headers": "Antas ng Ahente",
+      "division": "Dibisyon",
+      "level1": "Antas 1",
+      "division2": "Direktang Subordinates",
+      "headers2": "Hinati",
+      "level2": "Antas 2",
+      "division3": "Mga Subordinates",
+      "headers3": "Betting Bonus",
+      "level3": "Antas 3",
+      "division4": "Mga Subordinates"
+    },
+    "turnover": {
+      "title": "Mga Benepisyo ng Antas ng Ahente",
+      "title1": "Turnover / Balidong Mga Taya",
+      "title2": "Rate ng Komisyon",
+      "title3": "Mga Laro",
+      "slot": "Slot Game",
+      "fishing": "Fishing Game"
+    },
+    "recruitment": {
+      "title": "Mga Bonus sa Recruitment",
+      "members1": "Dami ng Recruitment",
+      "members": "Halaga ng Bonus",
+      "tier": "Mag-recruit ng {count}+ na mga miyembro",
+      "bonus": "₱{amount} Bonus"
+    },
+    "hero2": {
+      "title": "Paalala",
+      "subtitle": "1. Gantimpala sa rekomendasyon ng ahente - Ang mga inanyayang manlalaro na magdeposito ng ₱100+ ay ituturing na balidong miyembro, at ang mga ahente ay karapat-dapat na makatanggap ng 4 na komisyon ng ahente.",
+      "subtitle2": "2. Komisyon sa Deposito at Taya - Ang mga ahente ay kikita ng komisyon sa deposito at taya para sa bawat deposito at taya na wastong inilagay pababa sa linya.",
+      "subtitle3": "3. Eksklusibong gantimpala - Pagkatapos mag- anyaya ng 3 o higit pang mga miyembro, awtomatiko kang makakatanggap ng eksklusibong gantimpala."
+    },
+    "keyTrend": {
+      "desc": "Makakatanggap ka ng bonus na ₱50 para sa bawat kwalipikadong miyembrong iyong inirerekomenda (Kinakailangan sa pagkakwalipika: Ang iyong subordinate ay magdeposito ng ₱100 at magtaya ng ₱1,000 upang maging kwalipikado.)",
+      "title": "1. Referral Bonus",
+      "title1": "2. Betting Bonus",
+      "desc2": "Kabuuang Komisyon:",
+      "desc3": "Antas 1 Direktang Subordinates:",
+      "desc4": "Antas 2 Subordinates:",
+      "desc5": "Antas 3 Subordinates:",
+      "desc6": "Kabuuang 0.45%. Anuman kung manalo o matalo ang iyong mga kliyente, makakatanggap ka ng bonus na katumbas ng kanilang halaga ng taya.",
+      "title3": "Garantisadong Kita:",
+      "title2": "Kabuuang 0.45%, ipinamamahagi bilang sumusunod:",
+      "title4": "3. Mga Gantimpala sa Tagumpay",
+      "desc7": "Makatanggap ng karagdagang bonus sa pag-imbita ng tiyak na bilang ng mga miyembro!",
+      "desc8": "Mag-recruit ng 5+ o higit pang mga miyembro at makatanggap ng bonus na:",
+      "desc9": "₱50 Bonus",
+      "desc10": "Mag-recruit ng 10+ o higit pang mga miyembro at makatanggap ng bonus na:",
+      "desc11": "₱100 Bonus",
+      "title5": "4. Komisyon sa Deposito",
+      "desc12": "Tuwing ang subordinate ay magdeposito ng ₱100, makakatanggap ka ng 1% na komisyon",
+      "desc13": "₱10,000 deposito:",
+      "desc14": "₱100 Komisyon",
+      "desc15": "₱100,000 deposito:",
+      "desc16": "₱1000 Komisyon",
+      "title6": "Istruktura ng Komisyon:",
+      "desc17": "1% ng lahat ng deposito ng subordinate anuman ang resulta ng transaksyon"
+    },
+    "meta": {
+      "description": "Pagsusuri sa cybersecurity mula sa Xanzhu: Dalubhasang insights, trending threats, at tunay na mga case study.",
+      "title": "Pagsusuri sa Cybersecurity | Mga Trend at Case Studies"
+    }
+  },
+  "app": {
+    "sr": {
+      "lang_select": "Piniling Wika: ",
+      "menu": "Buksan ang Menu"
+    }
+  },
+  "breadcrumbs": {
+    "about": "Tungkol",
+    "analysis": "Plano ng Ahente",
+    "blog": "Promosyon",
+    "home": "Home",
+    "privacy": "Patakaran sa Privacy",
+    "resources": "Araw ng Miyembro",
+    "terms": "Mga Tuntunin ng Serbisyo"
+  },
+  "email": {
+    "share": "Tingnan ang artikulong ito"
+  },
+  "footer": {
+    "about": "Tungkol sa Me777",
+    "blog": "Promosyon",
+    "community": "Komunidad",
+    "company": "Kumpanya",
+    "copyright": "© me777.com 2025. Lahat ng Karapatan ay nakalaan.",
+    "github": "GitHub",
+    "latest": "Pinakabago",
+    "legal": "Legal",
+    "privacy": "Privacy",
+    "resources": "Mga Mapagkukunan",
+    "sr": {
+      "blog": "Mga Link ng Blog",
+      "community": "Mga Link ng Komunidad",
+      "company": "Mga Link ng Kumpanya",
+      "legal": "Mga Legal na Link",
+      "resource": "Mga Link ng Mapagkukunan"
+    },
+    "terms": "Mga Tuntunin",
+    "tools": "Miyembro",
+    "telegram": "Telegram",
+    "version": "Bersyon"
+  },
+  "home": {
+    "features": {
+      "description": "Tuklasin ang aming mga promosyon at ang aming tampok na bagong promosyon."
+    },
+    "latest": "Lahat ng Promosyon"
+  },
+  "pageCard": {
+    "article": "Manatiling updated sa aming pinakabagong mga promosyon para sa aming online gambling platform.",
+    "caseStudy": "Ang iyong miyembro ay magdeposito ng ₱100,000 makakatanggap ka ng ₱1,000",
+    "tools": "Lahat ng Miyembro ay Mag-enjoy ng Bilyun-bilyong Cash"
+  },
+  "resources": {
+    "explain": {
+      "malware": "Programa ng Membership",
+      "network": "Mahahalagang tool para sa pagsubaybay ng network traffic, pagtuklas ng mga kahinaan, at pag-secure ng iyong mga koneksyon.",
+      "phishing": "Pangkalahatang-ideya ng ME777"
+    },
+    "hero": {
+      "description": "Lahat ng Miyembro ay Mag-enjoy ng Bilyun-bilyong Cash",
+      "title": "ME777 Araw ng Membership"
+    },
+    "malware": "Me777 Araw ng Membership",
+    "meta": {
+      "description": "Manatiling ligtas online sa aming curated list ng pinakamahusay na security tools at serbisyo. Mula sa phishing protection hanggang malware reporting, nandito kami para sa iyo.",
+      "title": "Security Toolkit: Mahalaga para sa Online Safety"
+    },
+    "network": "Network Security",
+    "phishing": "Me777 Araw ng Membership",
+    "quick_links": "Mabilis na Mga Link",
+    "reporting": {
+      "anyrun": "Interactive malware analysis tool para sa pagsusuri at pagbabahagi ng mga resulta sa real time.",
+      "Services": "Propesyonal, dedikado, maginhawa at mabilis na suporta",
+      "Notification": "Mga SMS alert na ipinapadala sa araw ng event",
+      "microsoft": "Platform ng Microsoft para sa pag-uulat ng phishing at mga nakakapinsalang URL",
+      "securityheaders": "Suriin ang mga HTTP security header ng website para sa mga kahinaan",
+      "shodan": "Search engine para sa pagtuklas ng mga device at system na nakabukas sa internet."
+    },
+    "reporting_tools": "Mga Tool sa Pag-uulat",
+    "search": {
+      "noResults": "Oops, wala kaming mahanap, pakisubukan ulit.",
+      "placeholder": "Maghanap ng Araw ng Membership"
+    },
+    "tools": {
+      "Reputation": "Pinaka-maaasahang, kwalipikado at prestihiyosong bookmaker",
+      "Membership-Day-28th": "28 ng bawat buwan",
+      "Membership-Day-18th": "18 ng bawat buwan",
+      "Products": "Bagong-bago at kawili-wiling mga produktong pang-aliw",
+      "owaspzap": "Open-source penetration testing tool para sa pagtukoy ng mga kahinaan ng web application",
+      "License": "Legal na lisensyado sa Curacao",
+      "Rewards": "Mga misteryosong regalo para sa lahat ng aktibong miyembro",
+      "snort": "Intrusion detection system para sa real-time traffic analysis at threat prevention.",
+      "MarketPosition": "Nangungunang pagpipilian sa competitive online gaming market",
+      "Membership-Day-8th": "8 ng bawat buwan",
+      "wireshark": "Network protocol analyzer para sa pagsubaybay at troubleshooting ng network traffic."
+    }
+  },
+  "share": {
+    "email": "Ibahagi ang pahinang ito sa pamamagitan ng email",
+    "facebook": "Ibahagi ito sa Facebook",
+    "linkedin": "Ibahagi ito sa LinkedIn",
+    "reddit": "Ibahagi ito sa Reddit",
+    "telegram": "Ibahagi ito sa Telegram",
+    "threads": "Ibahagi ito sa Threads",
+    "title": "Ibahagi ang artikulong ito!",
+    "twitter": "Ibahagi ito sa Twitter"
+  },
+  "threatCard": {
+    "ariaLabel": "(Magbasa pa sa bagong tab)",
+    "recent": {
+      "crowdStrike": "Ang isang ahente ay kumikita ng ₱6,078,100",
+      "latitude": "Ang isang ahente ay kumikita ng ₱8,341,100",
+      "optus": "Ang isang ahente ay kumikita ng ₱7,201,500",
+      "title": "Kamakailang Komisyon sa Taya"
+    },
+    "regional": {
+      "dataBreach": "José Rizal",
+      "phish": "Corazon Aquino",
+      "ransomware": "Fernando Amorsolo",
+      "supplyChain": "Liza Soberano",
+      "takeOver": "Hidilyn Diaz",
+      "title": "Nangungunang 5 Ahente sa sugal ay nakakakuha ng pambihirang kita"
+    },
+    "source": "Ang mga premium-tier gambling intermediaries ay nagpapanatili ng profit margins na higit sa industry averages",
+    "title": "Ang nangungunang mga ahente ay bumubuo ng malaking kita sa pamamagitan ng online gambling operations"
+  },
+  "v2": {
+    "blog": {
+      "noPosts": "Walang available na mga post.",
+      "lastUpdated": "Huling Na-update",
+      "videoIframe": "Youtube Video",
+      "readTime": "min na pagbasa",
+      "prevPost": "Nakaraan",
+      "nextPost": "Susunod"
+    },
+    "colorSwitch": {
+      "dark": "Lumipat sa dark mode",
+      "light": "Lumipat sa light mode"
+    },
+    "home": {
+      "featuredPosts": "Mga Tampok na Blog Post",
+      "heroCta": "Tingnan ang Bago",
+      "heroHeading": "Online Casino na may pinakamalaking bonus",
+      "heroSubhead": "Ahente 1 Milyon PHP 4 na Komisyon",
+      "heroTagline": "Bukas, Secure at Accessible"
+    },
+    "langSwitch": {
+      "current": "Kasalukuyan",
+      "select": "Pumili ng Wika",
+      "switch": "Lumipat sa"
+    },
+    "ui": {
+      "scrollTop": "Bumalik sa Itaas",
+      "globalDate": "Kasalukuyang Petsa: "
+    },
+    "error404": {
+      "h1": "Hmm... Saan Napunta ang Pahinang Iyon?",
+      "p": "Paumanhin, ang link ay sira o ang pahina ay lumipat sa ibang lugar.",
+      "goBack": "Bumalik",
+      "label": "404 Hindi Nahanap ang Pahina"
+    },
+    "error500": {
+      "p": "May hindi gumagana sa ngayon. Pakisubukan ulit sa lalong madaling panahon.",
+      "h1": "Ang Server ay Nag-coffee Break...",
+      "label": "500 Internal Error"
+    },
+    "sr": {
+      "mainNav": "Pangunahing nabigasyon",
+      "langSelect": "Tagapili ng Wika"
+    }
+  }
+}

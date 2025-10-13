@@ -1,0 +1,14 @@
+.m-component {
+  margin: 2rem;
+}
+
+/* CSS Custom Property */
+.m-component {
+  margin: var(--component-margin);
+}
+
+@media (min-width: 768px) {
+  .m-component-md {
+    margin: var(--component-margin-md, 2rem);
+  }
+}

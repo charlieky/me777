@@ -1,0 +1,323 @@
+{
+  "Alert": {
+    "feature": "Feature Preview",
+    "maintenance": "This page is currently under construction and may look a little different when it's finished.",
+    "view": "View latest version"
+  },
+  "Blog": {
+    "description": "Frequent players unlock better bonuses through VIP/rank systems.",
+    "meta": {
+      "description": "Xanzhu provides helpful articles, guides and tips on all things technology. Focusing on privacy, security and more.",
+      "title": "Latest Posts on Security and Technology News"
+    },
+    "source": "Source",
+    "title": "Discover Our Latest Promotion Bonus",
+    "toc": "Table of contents"
+  },
+  "Home": {
+    "Seo": {
+      "description": "Stay safe online with Xanzhu. Get the latest tech trends, security tips, and privacy guides to navigate the digital world.",
+      "title": "News, Guides on Technology, Privacy and Security"
+    }
+  },
+  "Links": {
+    "analysis": "Agent",
+    "blog": "Promotion",
+    "resources": "Memberships"
+  },
+  "PagesCard": {},
+  "SocialsCard": {
+    "h1": "Follow our Socials"
+  },
+  "analysis": {
+    "graph": {
+      "advancedPersistentThreat": "Advanced Persistent Threat",
+      "aiIntegration": "AI Integration",
+      "initialThreat": "Initial Threat",
+      "label": "Cyber Threat Sophistication",
+      "peakSophistication": "Peak Sophistication",
+      "targetedAttacks": "Targeted Attacks",
+      "title": "AI-Powered Cyber Threat Progression",
+      "xAxis": "Threat Evolution Stage",
+      "yAxis": "Threat Sophistication (%)"
+    },
+    "hero": {
+      "subhead": "Agents can participate in quad mode combination",
+      "title": "Me777 Quad Agent Mode",
+      "title1": "Agent Task",
+      "title2": "ME777 Agent Benefits",
+      "title3": "Unique Agent Tools",
+      "title4": "Referral Link: ",
+      "title5": "www-me777.com/ref/yourcode",
+      "title6": "Invitation Code: ",
+      "title7": "AGENT-777",
+      "title8": "Commission Basis: ",
+      "title9": "All Member Activity",
+      "title10": "Settlement Frequency: ",
+      "title11": "Daily",
+      "title12": "Withdrawal Availability: ",
+      "title13": "Instant Processing",
+      "title14": "Earnings Cap: ",
+      "title15": "Unlimited",
+      "commissionTitle": "Commission system",
+      "promotionTitle": "Promotion Platforms"
+
+    },
+
+    "hero1": {
+      "title": "Commission Structure Analysis",
+      "subtitle": "Comprehensive breakdown of earning opportunities and bonus structures",
+      "title1": "Daily Referral Bonus Structure",
+      "deposit": "Deposit Amount",
+      "turnover": "Turnover",
+      "validBet": "Valid Bet",
+      "game": "Game",
+      "bonus": "Bonus",
+      "fishSlot": "Fish & Slot"
+    },
+
+    "agentLevels": {
+      "title": "Agent Level Benefits",
+      "headers": "Agent Level",
+      "division": "Division",
+      "level1": "Level 1",
+      "division2": "Direct Subordinates",
+      "headers2": "Devided",
+      "level2": "Level 2",
+      "division3": "Subordinates",
+      "headers3": "Betting Bonus",
+      "level3": "Level 3",
+      "division4": "Subordinates"
+
+    },
+
+    "turnover": {
+      "title": "Agent Level Benefits",
+      "title1": "Turnover / Valid Bets",
+      "title2": "Commission Rate",
+      "title3": "Games",
+      "slot": "Slot Game",
+      "fishing": "Fishing Game"
+
+    },
+
+    "recruitment": {
+      "title": "Recruitment Bonuses",
+      "members1": "Recruitment Quantity",
+      "members": "Bonus Amount",
+      "tier": "Recruit {count}+ members",
+      "bonus": "₱{amount} Bonus"
+    },
+
+    "hero2": {
+      "title": "Remark",
+      "subtitle": "1. Agent recommendation reward - Invited players who deposit ₱100+ will be regarded as valid members, and agents will be eligible to receive 4 agent commissions.",
+      "subtitle2": "2. Deposit and Bet Commission - Agents will earn deposit and bet commissions for every deposit and bet that is validly placed down the line.",
+      "subtitle3": "3. Exclusive rewards - After inviting 3 or more members, you will automatically receive exclusive rewards."
+    },
+
+    "keyTrend": {
+      "desc": "You'll receive a bonus of ₱50 for each qualified member you refer (Qualifying requirement: Your subordinate deposits ₱100 and bets ₱1,000 to qualify.)",
+      "title": "1. Referral Bonus",
+      "title1": "2. Betting Bonus",
+      "desc2": "Total Commission:",
+      "desc3": "Level 1 Direct Subordinates:",
+      "desc4": "Level 2 Subordinates:",
+      "desc5": "Level 3 Subordinates:",
+      "desc6": "A total of 0.45%. Regardless of whether your clients win or lose, you'll receive a bonus equal to their betting amount.",
+      "title3": "Guaranteed Earnings:",
+      "title2": " A total of 0.45%, distributed as follows:",
+      "title4": "3. Achievement Rewards",
+      "desc7": "Receive additional bonuses for inviting a certain number of members!",
+      "desc8": "Recruit 5+ or more members and receive a bonus of :",
+      "desc9": "₱50 Bonus",
+      "desc10": "Recruit 10+ or more members and receive a bonus of :",
+      "desc11": "₱100 Bonus",
+      "title5": "4. Deposit Commission",
+      "desc12": "Each time a subordinate deposits ₱100, you I'll receive a 1% commission",
+      "desc13": "₱10,000 deposit:",
+      "desc14": "₱100 Commission",
+      "desc15": "₱100,000 deposit:",
+      "desc16": "₱1000 Commission",
+      "title6": "Commission Structure:",
+      "desc17": "1% of all subordinate deposits regardless of transaction outcome"
+
+    },
+
+    "meta": {
+      "description": "Cybersecurity analysis from Xanzhu: Expert insights, trending threats, and real-world case studies.",
+      "title": "Cybersecurity Analysis | Trends & Case Studies"
+    }
+  },
+  "app": {
+    "sr": {
+      "lang_select": "Selected Language: ",
+      "menu": "Open Menu"
+    }
+  },
+  "breadcrumbs": {
+    "about": "About",
+    "analysis": "Agent Plan",
+    "blog": "Promotion",
+    "home": "Home",
+    "privacy": "Privacy Policy",
+    "resources": "Membership Day",
+    "terms": "Terms of Service"
+  },
+  "email": {
+    "share": "Check out this article"
+  },
+  "footer": {
+    "about": "About Me777",
+    "blog": "Promotion",
+    "community": "Community",
+    "company": "Company",
+    "copyright": "© me777.com 2025. All Rights reserved.",
+    "github": "GitHub",
+    "latest": "Latest",
+    "legal": "Legal",
+    "privacy": "Privacy",
+    "resources": "Resources",
+    "sr": {
+      "blog": "Blog Links",
+      "community": "Community Links",
+      "company": "Company Links",
+      "legal": "Legal Links",
+      "resource": "Resource Links"
+    },
+    "terms": "Terms",
+    "tools": "Member Ship",
+    "telegram": "Telegram",
+    "version": "Version"
+  },
+  "home": {
+    "features": {
+      "description": "Explore our promotions and our featured new promotion."
+    },
+    "latest": "Promotion All"
+  },
+  "pageCard": {
+    "article": "Stay updated on our latest promotions for our online gambling platform.",
+    "caseStudy": "Your member make deposit ₱100,000 you will receive ₱1,000",
+    "tools": "All Members Enjoy Billions of Cash"
+  },
+  "resources": {
+    "explain": {
+      "malware": "Membership Program",
+      "network": "Essential tools for monitoring network traffic, detecting vulnerabilities, and securing your connections.",
+      "phishing": "ME777 Overview"
+    },
+    "hero": {
+      "description": "All Members Enjoy Billions of Cash",
+      "title": "ME777 Membership Day"
+    },
+    "malware": "Me777 Membership Day",
+    "meta": {
+      "description": "Stay safe online with our curated list of the best security tools and services. From phishing protection to malware reporting, we've got you covered.",
+      "title": "Security Toolkit: Essential for Online Safety"
+    },
+    "network": "Network Security",
+    "phishing": "Me777 Membership Day",
+    "quick_links": "Quick Links",
+    "reporting": {
+      "anyrun": "Interactive malware analysis tool for analyzing and sharing results in real time.",
+      "Services": "Professional, dedicated, convenient & quick support",
+      "Notification": "SMS alerts sent on event day",
+      "microsoft": "Microsoft's platform for reporting phishing and malicious URLs",
+      "securityheaders": "Analyze a website's HTTP security headers for vulnerabilities",
+      "shodan": "Search engine for discovering devices and systems exposed to the internet."
+    },
+    "reporting_tools": "Reporting Tools",
+    "search": {
+      "noResults": "Oops, we couldn't find anything, please try again.",
+      "placeholder": "Search Membership Day"
+    },
+    "tools": {
+      "Reputation": "Most reliable, qualified & prestigious bookmaker",
+      "Membership-Day-28th": "28th of each month",
+      "Membership-Day-18th": "18th of each month",
+      "Products": "Brand-new & interesting entertainment products",
+      "owaspzap": "Open-source penetration testing tool for identifying web application vulnerabilities",
+      "License": "Legally licensed in Curacao",
+      "Rewards": "Mysterious gifts for all active members",
+      "snort": "Intrusion detection system for real-time traffic analysis and threat prevention.",
+      "MarketPosition": "Leading choice in competitive online gaming market",
+      "Membership-Day-8th": "8th of each month",
+      "wireshark": "Network protocol analyzer for monitoring and troubleshooting network traffic."
+    }
+  },
+  "share": {
+    "email": "Share this page via email",
+    "facebook": "Share this on Facebook",
+    "linkedin": "Share this on LinkedIn",
+    "reddit": "Share this on Reddit",
+    "telegram": "Share this on Telegram",
+    "threads": "Share this on Threads",
+    "title": "Share this Promotion!",
+    "twitter": "Share this on Twitter"
+  },
+  "threatCard": {
+    "ariaLabel": "(Read more in new tab)",
+    "recent": {
+      "crowdStrike": "An agent earns ₱6,078,100",
+      "latitude": "An agent earns ₱8,341,100",
+      "optus": "An agent earns ₱7,201,500",
+      "title": "Recent Bet Commission"
+    },
+    "regional": {
+      "dataBreach": "José Rizal",
+      "phish": "Corazon Aquino",
+      "ransomware": "Fernando Amorsolo",
+      "supplyChain": "Liza Soberano",
+      "takeOver": "Hidilyn Diaz",
+      "title": "Top 5 Agent gambling affiliates achieve exceptional earnings "
+    },
+    "source": "Premium-tier gambling intermediaries maintain profit margins exceeding industry averages",
+    "title": "Top agents generate substantial profits through online gambling operations"
+  },
+  "v2": {
+    "blog": {
+      "noPosts": "No posts available.",
+      "lastUpdated": "Last Updated",
+      "videoIframe": "Youtube Video",
+      "readTime": "min read",
+      "prevPost": "Previous",
+      "nextPost": "Next"
+    },
+    "colorSwitch": {
+      "dark": "Switch to dark mode",
+      "light": "Switch to light mode"
+    },
+    "home": {
+      "featuredPosts": "Featured Blog Posts",
+      "heroCta": "See What's New",
+      "heroHeading": "Online Casino with the largest bonuses",
+      "heroSubhead": "Agent 1 Millon PHP 4 Commissions",
+      "heroTagline": "Open, Secure and Accessible"
+    },
+    "langSwitch": {
+      "current": "Current",
+      "select": "Select Language",
+      "switch": "Switch to"
+    },
+    "ui": {
+      "scrollTop": "Back to Top",
+      "globalDate": "Current Date: "
+    },
+    "error404": {
+      "h1": "Hmm... Where Did That Page Go?",
+      "p": "Sorry, the link's broken or the page moved somewhere else.",
+      "goBack": "Go back",
+      "label": "404 Page Not Found"
+    },
+    "error500": {
+      "p": "Something isn't working right now. Please try again soon.",
+      "h1": "Server's Taking a Coffee Break...",
+      "label": "500 Internal Error"
+    },
+    "sr": {
+      "mainNav": "Main navigation",
+      "langSelect": "Language Selector"
+    }
+  }
+}

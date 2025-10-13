@@ -1,0 +1,312 @@
+{
+  "Alert": {
+    "feature": "功能预览",
+    "maintenance": "此页面目前正在建设中，完成后可能看起来有些不同。",
+    "view": "查看最新版本"
+  },
+  "Blog": {
+    "description": "频繁玩家通过VIP/等级系统解锁更好的奖金。",
+    "meta": {
+      "description": "Xanzhu提供有关技术各方面的有用文章、指南和提示。专注于隐私、安全等。",
+      "title": "安全与技术新闻的最新文章"
+    },
+    "source": "来源",
+    "title": "发现我们最新的促销奖金",
+    "toc": "目录"
+  },
+  "Home": {
+    "Seo": {
+      "description": "与Xanzhu一起保持在线安全。获取最新的技术趋势、安全提示和隐私指南以导航数字世界。",
+      "title": "技术、隐私和安全的新闻与指南"
+    }
+  },
+  "Links": {
+    "analysis": "代理",
+    "blog": "促销活动",
+    "resources": "会员日"
+  },
+  "PagesCard": {},
+  "SocialsCard": {
+    "h1": "关注我们的社交媒体"
+  },
+  "analysis": {
+    "graph": {
+      "advancedPersistentThreat": "高级持续威胁",
+      "aiIntegration": "AI集成",
+      "initialThreat": "初始威胁",
+      "label": "网络威胁复杂度",
+      "peakSophistication": "峰值复杂度",
+      "targetedAttacks": "定向攻击",
+      "title": "AI驱动的网络威胁演进",
+      "xAxis": "威胁演化阶段",
+      "yAxis": "威胁复杂度 (%)"
+    },
+    "hero": {
+      "subhead": "代理可以参与四重模式组合",
+      "title": "Me777 四重代理模式",
+      "title1": "代理任务",
+      "title2": "ME777 代理福利",
+      "title3": "独特代理工具",
+      "title4": "推荐链接：",
+      "title5": "www-me777.com/ref/yourcode",
+      "title6": "邀请码：",
+      "title7": "AGENT-777",
+      "title8": "佣金基础：",
+      "title9": "所有会员活动",
+      "title10": "结算频率：",
+      "title11": "每日",
+      "title12": "提款可用性：",
+      "title13": "即时处理",
+      "title14": "收益上限：",
+      "title15": "无限制",
+      "commissionTitle": "佣金系统",
+      "promotionTitle": "推广平台"
+    },
+    "hero1": {
+      "title": "佣金结构分析",
+      "subtitle": "赚钱机会和奖金结构的全面细分",
+      "title1": "每日推荐奖金结构",
+      "deposit": "存款金额",
+      "turnover": "流水",
+      "validBet": "有效投注",
+      "game": "游戏",
+      "bonus": "奖金",
+      "fishSlot": "捕鱼与老虎机"
+    },
+    "agentLevels": {
+      "title": "代理等级福利",
+      "headers": "代理等级",
+      "division": "部门",
+      "level1": "等级 1",
+      "division2": "直属下级",
+      "headers2": "分成",
+      "level2": "等级 2",
+      "division3": "下级",
+      "headers3": "投注奖金",
+      "level3": "等级 3",
+      "division4": "下级"
+    },
+    "turnover": {
+      "title": "代理等级福利",
+      "title1": "流水 / 有效投注",
+      "title2": "佣金比例",
+      "title3": "游戏",
+      "slot": "老虎机游戏",
+      "fishing": "捕鱼游戏"
+    },
+    "recruitment": {
+      "title": "招募奖金",
+      "members1": "招募数量",
+      "members": "奖金金额",
+      "tier": "招募 {count}+ 名会员",
+      "bonus": "₱{amount} 奖金"
+    },
+    "hero2": {
+      "title": "备注",
+      "subtitle": "1. 代理推荐奖励 - 被邀请的玩家存款₱100+将被视为有效会员，代理将有资格获得4种代理佣金。",
+      "subtitle2": "2. 存款和投注佣金 - 代理将为每一笔有效存款和投注赚取存款和投注佣金。",
+      "subtitle3": "3. 独家奖励 - 邀请3名或更多会员后，您将自动获得独家奖励。"
+    },
+    "keyTrend": {
+      "desc": "您每推荐一名合格会员将获得₱50奖金（合格要求：您的下级存款₱100并投注₱1,000即可合格。）",
+      "title": "1. 推荐奖金",
+      "title1": "2. 投注奖金",
+      "desc2": "总佣金：",
+      "desc3": "等级1直属下级：",
+      "desc4": "等级2下级：",
+      "desc5": "等级3下级：",
+      "desc6": "总计0.45%。无论您的客户输赢，您都将获得相当于其投注金额的奖金。",
+      "title3": "保证收益：",
+      "title2": "总计0.45%，分配如下：",
+      "title4": "3. 成就奖励",
+      "desc7": "邀请一定数量的会员可获得额外奖金！",
+      "desc8": "招募5名或更多会员并获得奖金：",
+      "desc9": "₱50 奖金",
+      "desc10": "招募10名或更多会员并获得奖金：",
+      "desc11": "₱100 奖金",
+      "title5": "4. 存款佣金",
+      "desc12": "每次下级存款₱100，您将获得1%的佣金",
+      "desc13": "₱10,000 存款：",
+      "desc14": "₱100 佣金",
+      "desc15": "₱100,000 存款：",
+      "desc16": "₱1000 佣金",
+      "title6": "佣金结构：",
+      "desc17": "所有下级存款的1%，无论交易结果如何"
+    },
+    "meta": {
+      "description": "来自Xanzhu的网络安全分析：专家见解、热门威胁和真实案例研究。",
+      "title": "网络安全分析 | 趋势与案例研究"
+    }
+  },
+  "app": {
+    "sr": {
+      "lang_select": "已选择语言：",
+      "menu": "打开菜单"
+    }
+  },
+  "breadcrumbs": {
+    "about": "关于",
+    "analysis": "代理计划",
+    "blog": "促销活动",
+    "home": "首页",
+    "privacy": "隐私政策",
+    "resources": "会员日",
+    "terms": "服务条款"
+  },
+  "email": {
+    "share": "查看这篇文章"
+  },
+  "footer": {
+    "about": "关于Me777",
+    "blog": "促销活动",
+    "community": "社区",
+    "company": "公司",
+    "copyright": "© me777.com 2025. 保留所有权利。",
+    "github": "GitHub",
+    "latest": "最新",
+    "legal": "法律",
+    "privacy": "隐私",
+    "resources": "资源",
+    "sr": {
+      "blog": "博客链接",
+      "community": "社区链接",
+      "company": "公司链接",
+      "legal": "法律链接",
+      "resource": "资源链接"
+    },
+    "terms": "条款",
+    "tools": "会员",
+    "telegram": "Telegram",
+    "version": "版本"
+  },
+  "home": {
+    "features": {
+      "description": "探索我们的促销活动和我们精选的新促销。"
+    },
+    "latest": "所有促销活动"
+  },
+  "pageCard": {
+    "article": "随时了解我们在线赌博平台的最新促销活动。",
+    "caseStudy": "您的会员存款₱100,000，您将获得₱1,000",
+    "tools": "所有会员享受数十亿现金"
+  },
+  "resources": {
+    "explain": {
+      "malware": "会员计划",
+      "network": "用于监控网络流量、检测漏洞和保护连接的基本工具。",
+      "phishing": "ME777 概述"
+    },
+    "hero": {
+      "description": "所有会员享受数十亿现金",
+      "title": "ME777 会员日"
+    },
+    "malware": "Me777 会员日",
+    "meta": {
+      "description": "通过我们精选的最佳安全工具和服务列表保持在线安全。从网络钓鱼保护到恶意软件报告，我们为您提供保障。",
+      "title": "安全工具包：在线安全必备"
+    },
+    "network": "网络安全",
+    "phishing": "Me777 会员日",
+    "quick_links": "快速链接",
+    "reporting": {
+      "anyrun": "用于实时分析和共享结果的交互式恶意软件分析工具。",
+      "Services": "专业、专注、便捷和快速的支持",
+      "Notification": "活动当天发送短信提醒",
+      "microsoft": "Microsoft用于报告网络钓鱼和恶意URL的平台",
+      "securityheaders": "分析网站的HTTP安全头以查找漏洞",
+      "shodan": "用于发现暴露在互联网上的设备和系统的搜索引擎。"
+    },
+    "reporting_tools": "报告工具",
+    "search": {
+      "noResults": "糟糕，我们找不到任何内容，请重试。",
+      "placeholder": "搜索会员日"
+    },
+    "tools": {
+      "Reputation": "最可靠、合格且享有盛誉的博彩公司",
+      "Membership-Day-28th": "每月28日",
+      "Membership-Day-18th": "每月18日",
+      "Products": "全新且有趣的娱乐产品",
+      "owaspzap": "用于识别Web应用程序漏洞的开源渗透测试工具",
+      "License": "在库拉索合法许可",
+      "Rewards": "所有活跃会员的神秘礼物",
+      "snort": "用于实时流量分析和威胁预防的入侵检测系统。",
+      "MarketPosition": "竞争激烈的在线游戏市场的领先选择",
+      "Membership-Day-8th": "每月8日",
+      "wireshark": "用于监控和故障排除网络流量的网络协议分析器。"
+    }
+  },
+  "share": {
+    "email": "通过电子邮件分享此页面",
+    "facebook": "在Facebook上分享",
+    "linkedin": "在LinkedIn上分享",
+    "reddit": "在Reddit上分享",
+    "telegram": "在Telegram上分享",
+    "threads": "在Threads上分享",
+    "title": "分享促销!",
+    "twitter": "在Twitter上分享"
+  },
+  "threatCard": {
+    "ariaLabel": "（在新标签页中阅读更多）",
+    "recent": {
+      "crowdStrike": "一名代理赚取₱6,078,100",
+      "latitude": "一名代理赚取₱8,341,100",
+      "optus": "一名代理赚取₱7,201,500",
+      "title": "近期投注佣金"
+    },
+    "regional": {
+      "dataBreach": "何塞·黎刹",
+      "phish": "科拉松·阿基诺",
+      "ransomware": "费尔南多·阿莫索洛",
+      "supplyChain": "丽莎·索贝拉诺",
+      "takeOver": "希迪林·迪亚兹",
+      "title": "前5名赌博代理取得非凡收益"
+    },
+    "source": "高级赌博中介保持超过行业平均水平的利润率",
+    "title": "顶级代理通过在线赌博运营产生可观利润"
+  },
+  "v2": {
+    "blog": {
+      "noPosts": "没有可用的帖子。",
+      "lastUpdated": "最后更新",
+      "videoIframe": "Youtube 视频",
+      "readTime": "分钟阅读",
+      "prevPost": "上一篇",
+      "nextPost": "下一篇"
+    },
+    "colorSwitch": {
+      "dark": "切换到深色模式",
+      "light": "切换到浅色模式"
+    },
+    "home": {
+      "featuredPosts": "精选博客文章",
+      "heroCta": "查看新内容",
+      "heroHeading": "拥有最大奖金的在线赌场",
+      "heroSubhead": "代理 1 百万PHP 4种佣金",
+      "heroTagline": "开放、安全且易于访问"
+    },
+    "langSwitch": {
+      "current": "当前",
+      "select": "选择语言",
+      "switch": "切换到"
+    },
+    "ui": {
+      "scrollTop": "返回顶部",
+      "globalDate": "当前日期："
+    },
+    "error404": {
+      "h1": "嗯... 那个页面去哪了？",
+      "p": "抱歉，链接已损坏或页面已移至其他地方。",
+      "goBack": "返回",
+      "label": "404 页面未找到"
+    },
+    "error500": {
+      "p": "现在有些东西不工作。请稍后再试。",
+      "h1": "服务器正在喝咖啡休息中...",
+      "label": "500 内部错误"
+    },
+    "sr": {
+      "mainNav": "主导航",
+      "langSelect": "语言选择器"
+    }
+  }
+}
