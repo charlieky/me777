@@ -14,7 +14,7 @@
         <!-- Tagline -->
 
         <!-- Heading -->
-        <h1 id="hero" class="m0 mb10 max-w-[90%] max-w-4xl w-full text-2xl 2xl:text-7xl lg:text-5xl md:text-4xl xl:text-6xl">
+        <h1 id="hero" class="m0 mb10 max-w-[90%] max-w-6xl w-full justify-center text-2xl 2xl:text-7xl lg:text-5xl md:text-4xl xl:text-6xl">
           {{ $t('v2.home.heroHeading') }}
         </h1>
 
@@ -23,7 +23,7 @@
           <span>{{ $t('v2.home.heroTagline') }}</span>
         </div>
         <!-- Subhead -->
-        <p class="mx-auto mb-4 max-w-[90%] max-w-lg w-full text-xs text-neutral-600 2xl:text-xl lg:text-base md:text-sm xl:text-lg dark:text-neutral-300">
+        <p class="mx-auto mb-4 max-w-[90%] max-w-xl w-full text-xs text-neutral-600 2xl:text-xl lg:text-base md:text-sm xl:text-lg dark:text-neutral-300">
           {{ $t('v2.home.heroSubhead') }}
         </p>
       </div>
