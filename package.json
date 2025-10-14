@@ -4,14 +4,14 @@
   "private": true,
   "license": "MIT",
   "scripts": {
-    "build": "nuxt build",
-    "dev": "nuxt dev",
+    "build": "node init && nuxt build",
+    "dev": "node init && nuxt dev",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare",
     "lint": "eslint",
     "lint:fix": "eslint --fix",
-    "build:cf": "nuxt build --envName cloudflare"
+    "build:cf": "node init && nuxt build --envName cloudflare"
   },
   "dependencies": {
     "@iconify/utils": "^3.0.2",
